@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\ \r\n\ HeartRate\ gets\ you\ age,\ then\r\n\ calculate\ and\ prints\ your\ estimated\ target\ heart\ rate\ zone.\r\n
+numComments=1

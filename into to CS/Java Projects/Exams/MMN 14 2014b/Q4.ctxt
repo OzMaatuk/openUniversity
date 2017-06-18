@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a\ pattern
+comment0.target=boolean\ match(int[],\ int[])
+comment1.params=a\ pattern\ i
+comment1.target=boolean\ match(int[],\ int[],\ int)
+comment2.params=a\ pattern\ i\ j
+comment2.target=boolean\ match(int[],\ int[],\ int,\ int)
+numComments=3

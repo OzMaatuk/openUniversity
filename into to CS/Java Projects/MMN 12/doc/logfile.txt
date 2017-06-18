@@ -1,0 +1,52 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\Program Files (x86)\BlueJ\lib\bluejcore.jar;D:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;D:\מבוא למדעי המחשב\Java Projects\MMN 12
+-d
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+D:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java
+<---- end of javadoc command ---->
+Loading source file D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_20
+Building tree for all the packages and classes...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\RGBColor.html...
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:25: warning - Tag @param cannot be used in field documentation.  It can only be used in the following types of documentation: class/interface, constructor, method.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:25: warning - Tag @param cannot be used in field documentation.  It can only be used in the following types of documentation: class/interface, constructor, method.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:25: warning - Tag @param cannot be used in field documentation.  It can only be used in the following types of documentation: class/interface, constructor, method.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:25: warning - Tag @param cannot be used in field documentation.  It can only be used in the following types of documentation: class/interface, constructor, method.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:25: warning - Tag @param cannot be used in field documentation.  It can only be used in the following types of documentation: class/interface, constructor, method.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:43: warning - @param argument "_red" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:43: warning - @param argument "_green" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:43: warning - @param argument "_blue" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:180: warning - @retun is an unknown tag.
+D:\מבוא למדעי המחשב\Java Projects\MMN 12\RGBColor.java:151: warning - @retun is an unknown tag.
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\package-frame.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\package-summary.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\allclasses-frame.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\allclasses-noframe.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\index.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 12\doc\stylesheet.css...
+10 warnings

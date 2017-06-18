@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_arr
+comment0.target=int\ what(int[])
+comment1.params=arr
+comment1.target=int\ summing(int[])
+numComments=2

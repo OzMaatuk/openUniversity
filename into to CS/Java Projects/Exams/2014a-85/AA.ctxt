@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AA()
+comment1.params=k
+comment1.target=AA(int)
+comment2.params=
+comment2.target=int\ getX()
+numComments=3

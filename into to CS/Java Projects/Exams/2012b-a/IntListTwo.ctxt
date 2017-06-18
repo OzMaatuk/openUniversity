@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntListTwo()
+comment1.params=node
+comment1.target=IntListTwo(IntNodeTwo)
+comment2.params=
+comment2.target=IntListTwo\ something1()
+comment3.params=
+comment3.target=long\ something2()
+numComments=4

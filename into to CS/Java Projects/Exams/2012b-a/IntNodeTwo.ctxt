@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=IntNodeTwo(int)
+comment1.params=num\ n\ p
+comment1.target=IntNodeTwo(int,\ IntNodeTwo,\ IntNodeTwo)
+comment2.params=
+comment2.target=int\ getNum()
+comment3.params=
+comment3.target=IntNodeTwo\ getNext()
+comment4.params=
+comment4.target=IntNodeTwo\ getPrev()
+comment5.params=n
+comment5.target=void\ setNum(int)
+comment6.params=n
+comment6.target=void\ setNext(IntNodeTwo)
+comment7.params=n
+comment7.target=void\ setPrev(IntNodeTwo)
+numComments=8

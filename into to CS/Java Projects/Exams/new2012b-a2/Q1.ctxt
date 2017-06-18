@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=s\ n
+comment0.target=boolean\ isSumOf(int[],\ int)
+comment1.params=s\ n\ i\ sum
+comment1.target=boolean\ isSumOf(int[],\ int,\ int,\ int)
+numComments=2

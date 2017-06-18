@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q4()
+comment1.params=mat\ x1\ y1\ x2\ y2
+comment1.target=int\ numPaths(int[][],\ int,\ int,\ int,\ int)
+numComments=2

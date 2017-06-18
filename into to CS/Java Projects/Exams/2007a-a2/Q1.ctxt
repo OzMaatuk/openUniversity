@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=sizeRow\ sizeCol
+comment0.target=Q1(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MaxLineRecursion\r\n
+comment1.params=
+comment1.target=Q1()
+comment2.params=
+comment2.target=int\ maxRow()
+comment3.params=arr\ i\ maxSum\ maxI
+comment3.target=int\ maxRow(int[][],\ int,\ int,\ int)
+comment4.params=arr\ i\ sum
+comment4.target=int\ sumOfRow(int[],\ int,\ int)
+numComments=5

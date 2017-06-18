@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q1()
+comment1.params=a
+comment1.target=int\ what(int[])
+comment2.params=a\ low\ high
+comment2.target=int\ f(int[],\ int,\ int)
+comment3.params=a
+comment3.target=int\ q1(int[])
+numComments=4

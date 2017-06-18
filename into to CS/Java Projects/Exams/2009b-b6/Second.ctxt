@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=Second(int)
+comment1.params=num1\ num2\ num3
+comment1.target=Second(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ sum()
+comment3.params=num
+comment3.target=void\ setNum3(int)
+numComments=4

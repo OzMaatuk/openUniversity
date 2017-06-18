@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q3()
+comment1.params=x
+comment1.target=Q3(int)
+comment2.params=x\ node
+comment2.target=Q3(int,\ Q3)
+comment3.params=other
+comment3.target=Q3(Q3)
+comment4.params=
+comment4.target=int\ getNum()
+comment5.params=
+comment5.target=Q3\ getNext()
+comment6.params=x
+comment6.target=void\ setNum(int)
+comment7.params=other
+comment7.target=void\ setNext(Q3)
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ex14()
+comment1.params=a
+comment1.target=int\ what(int[])
+comment1.text=\r\n\ public\ static\ int\ what\ (int\ []a)\ -\r\n\ The\ method\ is\ counting\ maximum\ sequence\ of\ cells/numbers\ from\ the\ array,\ that\ the\ amount\ is\ complate\ distribution\ of\ 3.\r\n\ \r\n\ @param\ \ a\ -\ is\ the\ number\ array\ we\ check\r\n\ @return\ maximum\ sequence\ cells/number\ that\ the\ amount\ is\ complate\ distribution\ of\ 3.\r\n
+comment2.params=a
+comment2.target=void\ zeroDistance(int[])
+comment2.text=\r\n\ public\ static\ void\ zeroDistance\ (int[]\ a)\ -\ overiting\ the\ array,\r\n\ in\ every\ cell\ that\ is\ value\ is\ one,\ the\ method\ will\ write\ the\ smallest\ distance\ to\ a\ "zero\ cell".\r\n\ \r\n\ @param\ \ \ \ \ \ a\ -\ the\ array\ to\ be\ overwrite.\r\n
+comment3.params=n
+comment3.target=int\ spiderman(int)
+comment3.text=\r\n\ public\ static\ int\ spiderman(int\ n)\ -\ the\ method\ is\ counting\ the\ ways\ that\ spiderman\ can\ climb\ a\ tower\ with\ 'n'\ floors\ from\ the\ zero\ floor,\r\n\ spiderman\ can\ only\ climb\ one\ floor,\ or\ two\ floors\ each\ time.\r\n\ \r\n\ @param\ \ \ \ \ \ n\ -\ the\ number\ of\ floors\ in\ the\ tower.\r\n\ @return\ \ \ \ \ the\ number\ of\ ways\ that\ spiderman\ can\ climb\ the\ tower.\r\n
+comment4.params=i\ n
+comment4.target=int\ spiderman(int,\ int)
+comment4.text=\r\n\ private\ static\ int\ spiderman(int\ i,int\ n)\ -\ the\ method\ is\ counting\ the\ ways\ that\ spiderman\ can\ climb\ a\ tower\ with\ 'n'\ floors\ from\ the\ 'i'\ floor,\r\n\ spiderman\ can\ only\ climb\ one\ floor,\ or\ two\ floors\ each\ time.\r\n\ \r\n\ @param\ \ \ \ \ \ n\ -\ the\ number\ of\ floors\ in\ the\ tower.\r\n\ @param\ \ \ \ \ \ i\ -\ the\ floor\ that\ spiderman\ start\ climbing\ from.\r\n\ @return\ \ \ \ \ the\ number\ of\ ways\ that\ spiderman\ can\ climb\ the\ tower.\r\n
+comment5.params=n
+comment5.target=int\ spidermanPhoneBooth20(int)
+comment6.params=mat\ x1\ y1\ x2\ y2
+comment6.target=int\ numPaths(int[][],\ int,\ int,\ int,\ int)
+comment6.text=\r\n\ public\ int\ numPaths\ (int[][]\ mat,int\ x1,\ int\ y1,\ int\ x2,\ int\ y2)\ -\ the\ method\ is\ calculating\ recursively\ the\ number\ of\ paths\ to\ get\ from\ cell\ (x1,y1)\ to\ cell\ (x2,y2)\r\n\ in\ a\ two\ demeintion\ array,\ without\ returning\ on\ cells\ and\ crossing\ the\ main\ diagonal.\ \r\n\ \r\n\ @param\ \ \ \ \ \ mat\ -\ the\ two\ demeintion\ array\ (matrix)\ that\ the\ method\ is\ calculating\ paths\ on.\ \ \r\n\ @param\ \ \ \ \ \ x1\ -\ row\ number\ od\ the\ source\ cell\r\n\ @param\ \ \ \ \ \ y1\ -\ col\ number\ of\ the\ source\ cell\r\n\ @param\ \ \ \ \ \ x2\ -\ row\ number\ od\ the\ target\ cell\r\n\ @param\ \ \ \ \ \ y2\ -\ col\ number\ of\ the\ target\ cell\r\n\ @return\ \ \ \ \ the\ number\ of\ pathes\ to\ get\ from\ cell\ (x1,y1)\ to\ cell\ (x2,y2)\ without\ returning\ on\ cells\ and\ crossing\ the\ main\ diagonal.\ \r\n
+numComments=7

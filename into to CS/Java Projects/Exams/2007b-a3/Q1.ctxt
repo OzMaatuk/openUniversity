@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=s1\ s2
+comment1.target=boolean\ checkInside(java.lang.String,\ java.lang.String)
+comment2.params=s1\ s2
+comment2.target=boolean\ isSubstring(java.lang.String,\ java.lang.String)
+numComments=3

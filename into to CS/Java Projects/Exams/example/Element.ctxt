@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=Element(int)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=Element\ getNextElement()
+comment3.params=other
+comment3.target=void\ setNextElement(Element)
+numComments=4

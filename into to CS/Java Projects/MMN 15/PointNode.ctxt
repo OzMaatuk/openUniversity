@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PointNode()
+comment0.text=\r\n\ empty\ constracture\:\r\n\ public\ PointNode()\ -\ sets\ null\ values\ for\ the\ point\ and\ the\ tail\ (the\ next\ point).\r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment1.params=p
+comment1.target=PointNode(Point)
+comment1.text=\r\n\ first\ constracture\:\r\n\ public\ PointNode(Point\ p)\ -\ gets\ a\ point\ and\ copy\ his\ values\ to\ this\ node\ point,\ the\ next\ point\ will\ be\ null;\r\n\ \r\n\ @param\ p\ -\ the\ point\ to\ copy\ values\ from.\r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment2.params=p\ n
+comment2.target=PointNode(Point,\ PointNode)
+comment2.text=\r\n\ secound\ constracture\:\r\n\ public\ PointNode(Point\ p,\ PointNode\ n)\ -\ get\ a\ Point\ and\ copy\ it\ to\ this\ Point\ PointNode,\ get\ a\ PointNode\ (the\ next\ value)\ and\ set\ it\ to\ this\ PointNode\ next\ value.\r\n\ \r\n\ @param\ \ \ p\ -\ the\ point\ to\ copy.\r\n\ @param\ \ \ n\ -\ the\ nodePoint\ (the\ next\ value)\ to\ set.\r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment3.params=p
+comment3.target=PointNode(PointNode)
+comment3.text=\r\n\ third\ constracture\:\r\n\ public\ PointNode(PointNode\ p)\ -\ gets\ a\ new\ PointNode\ and\ set\ it\ as\ this\ PointNode.\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment4.params=
+comment4.target=Point\ getPoint()
+comment4.text=\r\n\ public\ Point\ getPoint()\ -\ return\ the\ point\ (_point).\r\n\ \r\n\ @return\ \ this\ point\ (_point).\ \r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment5.params=
+comment5.target=PointNode\ getNext()
+comment5.text=\r\n\ public\ PointNode\ getNext()\ -\ return\ the\ next\ PointNode\ (_next).\r\n\ \r\n\ @return\ \ the\ next\ PointNode\ (_next).\r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment6.params=p
+comment6.target=void\ setPoint(Point)
+comment6.text=\r\n\ public\ void\ setPoint(Point\ p)\ -\ gets\ a\ Point\ and\ copy\ his\ values\ to\ this\ Point.\r\n\ \r\n\ @param\ \ \ p\ -\ the\ Point\ to\ copy\ from.\r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+comment7.params=next
+comment7.target=void\ setNext(PointNode)
+comment7.text=\r\n\ public\ void\ setNext(PointNode\ next)\ -\ gets\ a\ PoinNode\ and\ set\ is\ as\ this\ nextPoint\ (_next).\r\n\ \r\n\ @param\ \ \ next\ -\ the\ PointNode\ to\ set.\ \r\n\ \r\n\ @Time\:\ \ \ O(1);\r\n\ @Place\:\ \ O(1);\r\n
+numComments=8

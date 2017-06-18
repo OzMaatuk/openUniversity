@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=B(int)
+comment1.params=a
+comment1.target=boolean\ equals(A)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+numComments=2

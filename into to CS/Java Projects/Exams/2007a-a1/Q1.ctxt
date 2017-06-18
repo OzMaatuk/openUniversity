@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ equalSum()
+comment1.params=leftI\ rightI\ leftSum\ rightSum
+comment1.target=int\ equalSum(int,\ int,\ int,\ int)
+numComments=2

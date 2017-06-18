@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q1()
+comment1.params=
+comment1.target=void\ main()
+comment2.params=mat\ vec
+comment2.target=boolean\ what(int[][],\ int[])
+comment3.params=mat\ vec\ i
+comment3.target=boolean\ what2(int[][],\ int[],\ int)
+numComments=4

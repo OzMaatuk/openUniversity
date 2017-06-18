@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=IntList()
+comment1.params=node
+comment1.target=IntList(IntNode)
+comment2.params=
+comment2.target=int\ longestAscending()
+comment3.params=pointer\ lastValue
+comment3.target=int\ longestAscending(IntNode,\ int)
+comment4.params=pointer
+comment4.target=IntNode\ getStart(IntNode)
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=s\ n
+comment1.target=boolean\ isSumOf(int[],\ int)
+comment2.params=s\ n\ i
+comment2.target=boolean\ isSumOf(int[],\ int,\ int)
+numComments=3

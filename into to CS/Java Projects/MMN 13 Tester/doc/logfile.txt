@@ -1,0 +1,50 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\Program Files (x86)\BlueJ\lib\bluejcore.jar;D:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester
+-d
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+D:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java
+<---- end of javadoc command ---->
+Loading source file D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_20
+Building tree for all the packages and classes...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\RGBImage.html...
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:144: warning - @param argument "RGBImage" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:110: warning - @param argument "integer" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:110: warning - @param argument "integer" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:130: warning - @param argument "integer" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:130: warning - @param argument "integer" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:130: warning - @param argument "RGBColor" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:267: warning - @param argument "integer" is not a parameter name.
+D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\RGBImage.java:323: warning - @param argument "integer" is not a parameter name.
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\package-frame.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\package-summary.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\allclasses-frame.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\allclasses-noframe.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\index.html...
+Generating D:\מבוא למדעי המחשב\Java Projects\MMN 13 Tester\doc\stylesheet.css...
+8 warnings

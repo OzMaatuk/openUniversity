@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=void\ findMax(int[])
+comment1.params=arr\ i
+comment1.target=boolean\ isitMax(int[],\ int)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=l\ w\ sw
+comment0.target=Rectangle(int,\ int,\ Point)
+comment1.params=p
+comment1.target=Rectangle\ smallestRect1(Point[])
+comment2.params=p
+comment2.target=Rectangle\ smallestRect2(Point[])
+numComments=3

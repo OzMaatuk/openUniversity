@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q3a()
+comment1.params=n
+comment1.target=int\ spiderman(int)
+comment2.params=i\ n
+comment2.target=int\ spiderman(int,\ int)
+comment3.params=n
+comment3.target=int\ spidermanPhoneBooth20(int)
+numComments=4

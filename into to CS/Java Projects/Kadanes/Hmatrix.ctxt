@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=mat
+comment1.target=void\ fillHadamard(int[][])
+comment2.params=mat\ top\ left\ size\ sign
+comment2.target=void\ fillHadamard(int[][],\ int,\ int,\ int,\ int)
+numComments=3

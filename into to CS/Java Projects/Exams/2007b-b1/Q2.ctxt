@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Q2()
+comment1.params=node
+comment1.target=Q2(IntNode)
+comment2.params=
+comment2.target=IntNode\ getHead()
+comment3.params=other
+comment3.target=IntNode\ findMaxSuffix(IntNode)
+numComments=4
